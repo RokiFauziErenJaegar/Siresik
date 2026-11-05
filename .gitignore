@@ -1,0 +1,15 @@
+﻿.env
+.env.*
+!.env.example
+**/auth.json
+**/.clasp.json
+**/.clasprc.json
+**/node_modules/
+**/vendor/
+*.sqlite
+*.sqlite-*
+*.log
+/Cadangan_*.json
+/.codex/
+/.agents/
+/.aws/
